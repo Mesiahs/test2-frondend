@@ -7,12 +7,15 @@ import { useEffect, useState } from "react"
 import { getForms } from "../../services/testService"
 import { Form, Question } from "@/interfaces/FormInterface";
 import ScoreDisplay from "@/components/test/ScoreDisplay";
+import Confetti from 'react-confetti';
+import { useWindowSize } from "react-use";
 
 const Test = () => {
   const [showDialog, setShowDialog] = useState(true);
   const [form, setform] = useState<Form | null>(null)
   const [indexQuestion, setIndexQuestion] = useState(0)
   const [isTheEnd, setIsTheEnd] = useState(false)
+  const { width, height } = useWindowSize()
   let questionsFrom: Question[] | undefined = []
 
 
@@ -75,6 +78,12 @@ const Test = () => {
       <h3 className='text-2xl font-semibold text-gray-800 text-center p-6 rounded-lg' >{form?.name_form}</h3>
       {showDialog ? <DialogMessage onClose={closeDialog} /> : ''}
       {renderContent()}
+      {isTheEnd ?
+        <Confetti
+          width={width}
+          height={height}
+        />
+        : ''}
     </div>
   );
 };

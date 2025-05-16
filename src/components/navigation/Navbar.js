@@ -35,7 +35,7 @@ function Navbar() {
             <Image src={logo_Edufux} width={200} height={100} alt="Edufux Logo" />
           </Link>
           <div className="ml-4 mt-2 flex-shrink-0">
-            {['Casos', 'Servicios', 'Nosotros', 'About', 'Blog'].map((item) => (
+            {['Universidades', 'Puntaje icfes', 'Respuestas', 'Plan de trabajo'].map((item) => (
               <Link
                 key={item}
                 href={`/${item}`}

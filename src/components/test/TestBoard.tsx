@@ -5,6 +5,8 @@ import TestOptions from './TestOptions'
 import { Form, Question } from '@/interfaces/FormInterface';
 import { useDispatch } from 'react-redux';
 import { incrementCorrectAnswers } from '@/redux/features/userSlice';
+import { useWindowSize } from 'react-use'
+import Confetti from 'react-confetti'
 
 interface Props {
   question: Question;
@@ -14,10 +16,10 @@ interface Props {
 const TestBoard: React.FC<Props> = ({ question, onNextQuestion }) => {
   const [res, setRes] = useState<number>();
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null)
+  const { width, height } = useWindowSize()
   const dispatch = useDispatch()
 
   const getAnswer = (option: number) => {
-    console.log("holaaa")
     setRes(option)
     validationAnswer(option)
   }
@@ -37,12 +39,25 @@ const TestBoard: React.FC<Props> = ({ question, onNextQuestion }) => {
     if (correctChoice.id === option) {
       setIsCorrect(true);
       dispatch(incrementCorrectAnswers());
+
       console.log("Respuesta correcta - incrementando contador");
     } else {
       setIsCorrect(false);
       console.log("Respuesta incorrecta");
     }
   };
+
+
+  const confeti = () => {
+    return setTimeout(() => {
+      return 
+      <Confetti
+        width={width}
+        height={height}
+      />
+    }, 300);
+  }
+
   useEffect(() => {
   }, [])
 
@@ -72,9 +87,6 @@ const TestBoard: React.FC<Props> = ({ question, onNextQuestion }) => {
         </button>
       </div>
 
-      {isCorrect !== null ?
-        <p className="mt-4 text-lg text-center text-gray-700">{"Es correcto"}</p>
-        : <p className="mt-4 text-lg text-center text-gray-700">{"Es incorrecto"}</p>}
     </div>
   )
 }

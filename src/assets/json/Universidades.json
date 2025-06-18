@@ -1,0 +1,19 @@
+[{
+    "name_university":"universidad uniconmfacauca",
+    "descripcion":"lore",
+    "logo":"",
+    "Carreras": [
+        {
+            "nombre_carrera": "Administracion de empresas",
+            "url": "gfdd",
+            "informacion_carrera": {
+                "nombre_carrera": "Administracion de empresas", 
+                "Sobre_carrera": "En nuestro programa Ingeniería de Sistemas, Reacreditado en Alta Calidad por parte del Ministerio de Educación Nacional, preparamos profesionales íntegros con alto nivel de conocimientos en el desarrollo de soluciones tecnológicas de la información y la comunicación, formulando y dirigiendo la investigación aplicada que beneficie el desarrollo técnico, tecnológico y científico del sector productivo del país. También, estará preparado para trabajar eficientemente con los diferentes recursos informáticos que ofrece la sociedad del conocimiento."
+            }
+        },
+        {
+            "nombre_carrera": "Comunicacion social y medios digitales",
+            "url": "gfdd"
+        }
+    ]
+}]

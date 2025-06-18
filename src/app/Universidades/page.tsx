@@ -1,10 +1,24 @@
+"use client";
+
 import CasesList from '@/components/categories/CasesList'
-import React from 'react'
+import React, { useEffect, useState } from 'react'
+
+import universidadesJson from "@/assets/json/Universidades.json"
+
+import { Universidad } from '@/interfaces/Universidad';
 
 const pageUniversity = () => {
+    const [universidades, setUniversidades] = useState()
+
+    useEffect(() => {
+      console.log(universidadesJson);
+      //setUniversidades(universidadesJson)
+    }, [])
+    
+
     return (
         <div className="pt-28">
-            <CasesList/>
+            <CasesList universidades={universidadesJson}/>
         </div>
     )
 }

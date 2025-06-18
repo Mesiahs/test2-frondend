@@ -1,7 +1,11 @@
 import CaseCard from "./CaseCard"
+import { Universidad } from '@/interfaces/Universidad';
 
-function CasesList(){
+interface CasesListProps {
+  universidades: Universidad[]; // Assuming universidades is an array of Universidad objects
+}
 
+function CasesList({ universidades }: CasesListProps) {
     const posts = [
         {
           title: 'Boost your conversion rate',
@@ -68,8 +72,11 @@ function CasesList(){
         <div className="relative mx-auto max-w-full">
          
           <div className="mx-auto xl:mx-12 mt-12 grid max-w-lg gap-40 lg:max-w-none lg:grid-cols-2">
-            {posts.map((post, index) => (
+            {/* {universidades.map((post, index) => (
               <CaseCard index={index} data={post} key={index} />
+            ))} */}
+            {universidades.map((universidad, index) => (
+              <CaseCard  universidad={universidad} key={index} index={index} />
             ))}
           </div>
         </div>

@@ -9,13 +9,104 @@
                 "url": "gfdd",
                 "informacion_carrera": {
                     "nombre_carrera": "Administracion de empresas",
-                    "Sobre_carrera": "En nuestro programa Ingeniería de Sistemas, Reacreditado en Alta Calidad por parte del Ministerio de Educación Nacional, preparamos profesionales íntegros con alto nivel de conocimientos en el desarrollo de soluciones tecnológicas de la información y la comunicación, formulando y dirigiendo la investigación aplicada que beneficie el desarrollo técnico, tecnológico y científico del sector productivo del país. También, estará preparado para trabajar eficientemente con los diferentes recursos informáticos que ofrece la sociedad del conocimiento."
-                }
+                    "Sobre_carrera": "Nuestro programa Administración de Empresas, siendo coherente con los propósitos de la Corporación Universitaria Comfacauca, busca formar Administradores que sean líderes éticos con una visión integral del entorno, capaces de gerenciar las organizaciones con responsabilidad social empresarial, mediante el aprendizaje autónomo, trabajo en equipo y motivación, íntegros en todas sus dimensiones humanas, profesionales, ciudadanas que les permitan integrarse exitosamente a su contexto local, regional, nacional y global."                }
             },
             {
                 "nombre_carrera": "Comunicacion social y medios digitales",
-                "url": "gfdd"
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Comunicacion social y medios digitales",
+                    "Sobre_carrera": "Nuestro programa Comunicación Social y Medios Digitales tiene por misión, la formación de profesionales integrales, con sólidas bases conceptuales, teóricas, éticas, críticas y tecnológicas, para el liderazgo de procesos comunicativos efectivos, en contextos locales y globales, apoyados en tecnologías emergentes y nuevos medios."                }
+
+            },
+            {
+                "nombre_carrera": "Contaduría Pública",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Contaduría Pública",
+                    "Sobre_carrera": "En Unicomfacauca formamos Contadores Públicos profesionales capaces de actuar localmente con visión global, observadores de las tendencias y políticas nacionales e internacionales, encontrándose a la vanguardia en procesos tecnológicos y técnicos propios de su formación, con alta capacidad de adaptación e innovación en diferentes escenarios económicos, sociales, culturales, políticos y ambientales, generador de soluciones pertinentes que aporten al desarrollo y crecimiento de su región y país."                }
+
+            },
+            {
+                "nombre_carrera": "Derecho",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Derecho",
+                    "Sobre_carrera": "Nuestro programa Derecho está comprometido con la formación integral de ciudadanos y profesionales competentes en la ciencia jurídica, que contribuyan a reconocer y solucionar conflictos derivados de la interacción social, económica, cultural y ambiental, propios de la convivencia humana, fundamentados en la excelencia, la primacía de los derechos humanos y la defensa de las instituciones democráticas."                }
+
+            },
+            {
+                "nombre_carrera": "Ingeniería Agroambiental",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería Agroambiental",
+                    "Sobre_carrera": ["Nuestra Ingeniería Agroambiental, es un programa de formación profesional en el área agropecuaria y ambiental, creado en el 2002 para responder a la necesidad de formar personal calificado para atender los procesos productivos (agrícolas y pecuarios) de la región, conservar y aprovechar sosteniblemente las condiciones ambientales y los recursos naturales de uno de los departamentos de mayor diversidad biológica y cultural del país.", "En sus dinámicas universitarias, conjuga dentro del área de ingeniería aplicada, las disciplinas agrícolas, pecuarias, ambientales, nuevas tecnologías e investigación, que permiten al profesional asimilar y combinar un amplio espectro de conocimientos en cuanto a la formulación, elaboración, desarrollo y seguimiento de proyectos en el área ambiental, agropecuaria y agroindustrial, con capacidad de trabajar activamente en proyectos interdisciplinarios."]                
+                }
+
+            },
+            {
+                "nombre_carrera": "Ingeniería Civil",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería Civil",
+                    "Sobre_carrera": ["texto El/La Ingeniero(a) Civil de Unicomfacauca está pleno de habilidades y destrezas para:", 
+                    "Aplicar instrumentos básicos de la ingeniería, como el análisis estadístico, los modelos informáticos, los códigos y normas de diseño y los métodos de supervisión de proyectos.", 
+                    "Aprender, evaluar y dominar las nuevas tecnologías con el fin de mejorar la efectividad y eficiencia individual y de la organización. ",
+                    "Colaborar en equipos tradicionales y virtuales de naturaleza interdisciplinar, interdisciplinar y multidisciplinar",
+                    "Liderar formulando y articulando mejoras ambientales, de infraestructuras y de otra índole y propiciar consensos aplicando la inclusión, la empatía, la compasión, la persuasión, la paciencia y el pensamiento crítico.",
+                    "Además El/La Ingeniero(a) Civil de Unicomfacauca posee actitudes conducentes a una práctica profesional efectiva, en tanto es:",
+                    "Creativo y emprendedor, lo que conduce a la identificación activa de posibilidades y oportunidades y la toma de acciones para desarrollarlas.",
+                    "Comprometido con la ética, metas personales y de la organización y equipos y organizaciones.",
+                    "Curioso, que es la base para el aprendizaje continuo, los nuevos planteamientos, el desarrollo de nuevas tecnologías o aplicaciones innovadores de tecnologías existentes y nuevas iniciativas.",
+                    "Honesto e íntegro.",
+                    "Optimista frente a los desafíos y proyectos, reconociendo la importancia de la visión, el compromiso, la planificación, la tenacidad, la flexibilidad y el trabajo en equipo.",
+                    "Respetuoso y tolerante de los derechos, valores, opiniones, propiedad, posesiones y sensibilidades de los demás.",
+                    "Minuciosos y auto disciplinado en la preservación de las implicaciones de seguridad, higiene y bienestar de la población en los proyectos."]               
+                }
+
+            },
+            {
+                "nombre_carrera": "Ingeniería de sistemas",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería de sistemas",
+                    "Sobre_carrera": "En nuestro programa Ingeniería de Sistemas, Reacreditado en Alta Calidad por parte del Ministerio de Educación Nacional, preparamos profesionales íntegros con alto nivel de conocimientos en el desarrollo de soluciones tecnológicas de la información y la comunicación, formulando y dirigiendo la investigación aplicada que beneficie el desarrollo técnico, tecnológico y científico del sector productivo del país. También, estará preparado para trabajar eficientemente con los diferentes recursos informáticos que ofrece la sociedad del conocimiento."                }
+
+            },
+            {
+                "nombre_carrera": "Ingeniería Industrial",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería Industrial",
+                    "Sobre_carrera": "Nuestro programa Ingeniería Industrial forma Ingenieros competentes, críticos, líderes y emprendedores con responsabilidad social, quien genera, fomenta y ejecuta procesos de investigación, con amplio conocimiento científico, tecnológico y de innovación para el sector industrial. Para tal fin, su formación se enfatiza en las áreas de diseño, implementación, análisis, optimización, control y mejoramiento de los sistemas productivos de bienes y servicios, lo cual le permite aplicar en su ejercicio profesional criterios de sustentabilidad para contribuir al desarrollo socioeconómico del Cauca y el país."                }
+
+            },
+            {
+                "nombre_carrera": "Ingeniería Mecatrónica",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería Mecatrónica",
+                    "Sobre_carrera": "Nuestro programa Ingeniería Mecatrónica contribuirá en la comprensión y aplicación de los conocimientos de vanguardia en mecánica, electrónica, informática y control para diseñar, desarrollar y adaptar soluciones innovadoras con visión integral para satisfacer las NBI de la región Caucana, formando profesionales emprendedores que adaptan y apropian la tecnología emergente y la vinculan a los principios, valores y propósitos sociales de la corporación, aportando al desarrollo dinámico de los sectores productivos de la región Caucana."                }
+
+            },
+            {
+                "nombre_carrera": "Tecnología en Gestión Gastronómica",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Tecnología en Gestión Gastronómica",
+                    "Sobre_carrera": "Nuestro programa Tecnología de Gestión Gastronómica, acreditado en Alta Calidad por parte del Ministerio de Educación Nacional, está orientado a la formación integral, innovadora, emprendedora e investigativa de tecnólogos capaces de brindar servicios de calidad que atiendan a la demanda de la región en producción de alimentos, gestión y administración de hoteles y restaurantes, los cuales contribuyan al fortalecimiento de la industria gastronómica, del sector turístico, económico, social y cultural de la región y del país, a través del conocimiento científico, humanístico y tecnológico."                }
+
+            },
+            {
+                "nombre_carrera": "Trabajo Social",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Trabajo Social",
+                    "Sobre_carrera": ["texto 1", "texto 2"]               
+                }
+
             }
+            
         ]
     },
     {

@@ -24,7 +24,10 @@
                 "url": "gfdd",
                 "informacion_carrera": {
                     "nombre_carrera": "Contaduría Pública",
-                    "Sobre_carrera": "En Unicomfacauca formamos Contadores Públicos profesionales capaces de actuar localmente con visión global, observadores de las tendencias y políticas nacionales e internacionales, encontrándose a la vanguardia en procesos tecnológicos y técnicos propios de su formación, con alta capacidad de adaptación e innovación en diferentes escenarios económicos, sociales, culturales, políticos y ambientales, generador de soluciones pertinentes que aporten al desarrollo y crecimiento de su región y país."                }
+                    "Sobre_carrera": "En Unicomfacauca formamos Contadores Públicos profesionales capaces de actuar localmente con visión global, observadores de las tendencias y políticas nacionales e internacionales, encontrándose a la vanguardia en procesos tecnológicos y técnicos propios de su formación, con alta capacidad de adaptación e innovación en diferentes escenarios económicos, sociales, culturales, políticos y ambientales, generador de soluciones pertinentes que aporten al desarrollo y crecimiento de su región y país."                },
+                    "planEstudios": {
+                        "semestre I": 
+                    }
 
             },
             {

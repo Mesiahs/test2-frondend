@@ -90,6 +90,25 @@
 
             },
             {
+                "nombre_carrera": "Programa Marketing",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Marketing",
+                    "Sobre_carrera": "El programa de Marketing en Unicomfacauca es una respuesta a las dinámicas del entorno digital, comercial y empresarial del Cauca y del país. Es por eso que está diseñado para formar profesionales con una visión integral del entorno comercial, capaces de comprender el comportamiento del consumidor, interpretar tendencias y desarrollar estrategias innovadoras que generen valor. Todo esto desde una perspectiva ética, colaborativa y con alto compromiso social, alineada a las necesidades del mercado actual y futuro."                }
+            },
+            {
+                "nombre_carrera": "Programa Tecnología Agroambiental",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Tecnología Agroambiental",
+                    "Sobre_carrera": "",
+                    "Perfil profesional":"",
+                    "Perfil ocupacional": ["El Tecnólogo Agroambiental podrá desenvolverse al interior de organizaciones públicas o privadas en las áreas agrícolas y pecuarias, de producción agroindustrial, gestión ambiental y conservación de recursos naturales, entre otras. En este sentido, podrá planear, diseñar, liderar y ejecutar programas de producción sostenible para unidades productivas agrícolas, pecuarias y ambientales. Asesorar, supervisar y ejecutar proyectos referentes al manejo y conservación de recursos naturales y la gestión ambiental.",
+                    "De igual manera, tendrá la capacidad de promover, gestionar y desarrollar actividades de tipo comunitario sostenible en áreas como: ciencias del suelo, producción agrícola y pecuaria, conservación de recursos hídricos, manejo integrado de cultivos, acuicultura y procesos agroindustriales. Así mismo podrá formular, gestionar y ejecutar proyectos de desarrollo sostenible, rurales y urbanos de cooperación nacional e internacional. Administrar empresas y proyectos agropecuarios que busquen aumentar los niveles de producción y la calidad de los productos y subproductos."]
+                
+                }
+            },
+            {
                 "nombre_carrera": "Tecnología en Gestión Gastronómica",
                 "url": "gfdd",
                 "informacion_carrera": {
@@ -102,7 +121,10 @@
                 "url": "gfdd",
                 "informacion_carrera": {
                     "nombre_carrera": "Trabajo Social",
-                    "Sobre_carrera": ["texto 1", "texto 2"]               
+                    "Sobre_carrera": ["El plan de formación del programa de Trabajo Social, responde a las tendencias para las ciencias sociales a nivel nacional e internacional, enfocado en las problemáticas y necesidades del departamento del Cauca; por ello los enfoques bajo los cuales se sustenta y fundamenta el currículo son: derechos humanos y diferencial, la interculturalidad y la construcción de paz.",
+                    "Durante el proceso de formación los estudiantes estarán en constante diálogo con otras ciencias a través de la interdisciplinariedad que media en la intervención social, contando con asignaturas que brindan los fundamentos teóricos, epistemológicos, investigativos y metodológicos para la intervención social.",
+                    "Además, este programa cuenta con un énfasis en: trabajo social en obras civiles, trabajo social ambiental y trabajo social en salud mental; siendo Unicomfacauca una institución pionera en estas áreas de intervención para el trabajo social.",
+                    "texto 2"]               
                 }
 
             }
@@ -110,22 +132,127 @@
         ]
     },
     {
-        "name_university": "universidad del cauca",
+        "name_university": "Fundación Universitaria De Popayán",
         "descripcion": "lore",
         "logo": "",
         "Carreras": [
             {
-                "nombre_carrera": "Administracion de empresas",
+                "nombre_carrera": "Arquitectura",
                 "url": "gfdd",
                 "informacion_carrera": {
-                    "nombre_carrera": "Administracion de empresas",
-                    "Sobre_carrera": "En nuestro programa Ingeniería de Sistemas, Reacreditado en Alta Calidad por parte del Ministerio de Educación Nacional, preparamos profesionales íntegros con alto nivel de conocimientos en el desarrollo de soluciones tecnológicas de la información y la comunicación, formulando y dirigiendo la investigación aplicada que beneficie el desarrollo técnico, tecnológico y científico del sector productivo del país. También, estará preparado para trabajar eficientemente con los diferentes recursos informáticos que ofrece la sociedad del conocimiento."
+                    "nombre_carrera": "Arquitectura",
+                    "Sobre_carrera": ["Nuestro programa de Arquitectura de la Fundación Universitaria de Popayán está concebido como un espacio de formación integral de personas en el ámbito del diseño, de la construcción, el urbanismo, el patrimonio y el paisajismo, capaces de responder a los retos propios del momento histórico y lugar en el que se desempeñen como profesionales éticos e idóneos.",
+                    "Nuestra misión es contribuir a la formación integral de personas profesionales en Arquitectura con capacidades para el trabajo en equipo que impulsen el crecimiento y mejora de la región, promuevan la proyección social y la investigación con estrategias que aporten al desarrollo sostenible de la región y del país, enmarcado en el conocimiento y aplicación de los valores morales y sociales de convivencia y respeto sobre la base del ejercicio profesional ético."]
                 }
             },
             {
-                "nombre_carrera": "Comunicacion social y medios digitales",
-                "url": "gfdd"
+                "nombre_carrera": "Ingeniería de Sistemas",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería de Sistemas",
+                    "Sobre_carrera": "Formar ingenieros de sistemas integrales con responsabilidad social, capaces de proponer soluciones informáticas desde la perspectiva de ingeniería de software en los diferentes contextos internacional, regional, nacional y local en el marco de la innovación y el emprendimiento.,"
+                }
+            },
+            {
+                "nombre_carrera": "Ingeniería Industrial",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería Industrial",
+                    "Sobre_carrera": ["Somos el único programa en la región que cuenta con un semestre dedicado exclusivamente a la práctica empresarial, garantizando así, que los estudiantes al momento de graduarse cuenten con una experiencia certificada generada bajo el acompañamiento de un profesional experto en calidad de tutor académico.",
+                    "La Ingeniería Industrial se presenta como herramienta en la resolución de las situaciones que traen consigo los desafíos de la sociedad en el área de procesos industriales y productividad, sistemas de gestión, ciencia y tecnología a nivel global; contribuyendo en la gestión de la innovación en la industria, mejorando la competitividad que haceparte del proceso de globalización."]
+                }
+            },
+            {
+                "nombre_carrera": "Licenciatura en Educación Artística y Cultural",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Licenciatura en Educación Artística y Cultural",
+                    "Sobre_carrera": "La Licenciatura en Educación Artística y Cultural se presenta como el primer programa en educación de la FUP que pretende, contribuir de manera responsable a la formación de maestros que posicionen procesos relevantes en contextos relacionados con educación, arte y cultura, con gran impacto en la comunidad, y así mismo, ofrecer a la población del suroccidente colombiano, el espacio idóneo, que apunte a la formación integral de futuros docentes."
+                }
+            },
+            {
+                "nombre_carrera": "Comunicación Social - Virtual",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Comunicación Social - Virtual",
+                    "Sobre_carrera": "El Programa de Comunicación Social en modalidad virtual que ofrece la FUP busca contribuir al desarrollo de la región y el país formando profesionales integrales, con un alto sentido de la ética y la responsabilidad social, comprometidos con su tiempo y su territorio, con una sólida formación teórica y metodológica para aportar desde su disciplina al diálogo entre distintos actores sociales y la solución pacífica y dialogada de los conflictos, unos profesionales capaces analizar, interpretar y comprender diversos procesos  sociales, políticos y culturales, actuar como mediador en procesos participativos de innovación, desarrollo y cambio social, e integrarse de manera creativa en entornos digitales de la comunicación mediante la generación y gestión de contenidos."
+                }
+            },
+            {
+                "nombre_carrera": "Comunicación Social",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Comunicación Social",
+                    "Sobre_carrera": "El programa de Comunicación Social de la FUP, pretende formar profesionales en Comunicación Social que comprendan, produzcan y socialicen contenidos comunicacionales en los contextos y realidades humanas desde la innovación y el pensamiento crítico a través de la gestión y la mediación en procesos participativos, de desarrollo y cambio social como respuesta integral a la transformación de la región, mediante su ejercicio responsable y ético."
+                }
+            },
+            {
+                "nombre_carrera": "Derecho",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Derecho",
+                    "Sobre_carrera": "Nuestra misión es formar profesionales competentes para contribuir con el desarrollo social de la región y del país, teniendo en cuenta la situación política, jurídica y social del país, a raíz de los retos que plantea el fenómeno de la globalización, e igualmente aquellos derivados del rompimiento del tejido social que ha dado lugar a desigualdades e injusticias en nuestra sociedad."
+                }
+            },
+            {
+                "nombre_carrera": "Psicología",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Psicología",
+                    "Sobre_carrera": "Nuestro programa de Psicología es líder en los procesos de formación, investigación y proyección social, buscando generar en sus estudiantes un pensamiento crítico, proactivo y propositivo en todos los temas relacionados con la construcción de modelos teóricos y aplicados de la psicología. Logrando garantizar la sostenibilidad y la proyección profesional de sus egresados como representantes éticos, morales y científicos de los postulados clínicos, educativos, sociales propios de la psicología. Así mismo, en nuestras materias electivas atendemos y propendemos por la formación en los avances en la disciplina y los modelos de interacción e identidad científica de nuestro psicólogo FUP."
+                }
+            },
+            {
+                "nombre_carrera": "Trabajo Social",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Trabajo Social",
+                    "Sobre_carrera": ["Con nuestro programa Trabajo Social, formamos integralmente profesionales capaces de afrontar las problemáticas sociales y sus implicaciones en los contextos locales, regionales y nacionales para poder brindar, estructurar y gestionar estrategias efectivas para el mejoramiento de las condiciones de vida de la población afectada.",
+                    "El currículo pretende desarrollar profesionales de alta calidad comprometidos con su entorno, basados en los principios de ética, integración teórico/práctica, interdisciplinariedad, flexibilidad, cultura investigativa e identidad profesional."]
+                }
+            },
+            {
+                "nombre_carrera": "Contaduría Pública",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Contaduría Pública",
+                    "Sobre_carrera": ["Nuestro programa de Contaduría Pública enfatiza en aspectos propios y relacionados con la gerencia financiera y en procesos de desarrollo y socialización de conocimientos en las áreas básica, profesional y socio-humanística.",
+                    "Con nuestro currículo se busca el desarrollo y fortalecimiento de habilidades que le permiten al profesional de la Contaduría Pública hacer planteamientos y dar soluciones a problemas complejos, fomentando el trabajo en equipo, la flexibilidad, el pensamiento y actitud crítica, así como el desarrollo de habilidades en comunicación oral y escrita."]
+                }
+            },
+            {
+                "nombre_carrera": "Administración de Empresas",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Administración de Empresas",
+                    "Sobre_carrera": "Nuestro programa Administración de Empresas está soportado por un currículo que da respuesta a las nuevas tendencias del mercado globalizado, que exige la gestión de organizaciones dinámicas abiertas y competitivas, donde la innovación, el emprendimiento, la investigación y el cambio son paradigmas de competitividad."
+                }
+            },
+            {
+                "nombre_carrera": "Administración de Empresas Agropecuarias",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Administración de Empresas Agropecuarias",
+                    "Sobre_carrera": "Nuestro programa se caracteriza por la formación en el componente de organizaciones agropecuarias, con preferencia por la identificación de ideas y oportunidades de negocios, la formulación y evaluación de proyectos productivos en diversas organizaciones sociales representativas de la región y el liderazgo en Organizaciones de base, Asociaciones de Cabildos, comunidades negras y comunidades campesinas."
+                }
+            },
+            {
+                "nombre_carrera": "Ingeniería Agroecológica",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ingeniería Agroecológica",
+                    "Sobre_carrera": "El programa Ingeniería Agroecológica se convierte en una alternativa en el marco de programas ambientales y de producción de alimentos, ya que es base y fundamento para generar un proceso de cambios a nivel cultural hacia una mejor sociedad, a través de la implementación de acciones que permitan mitigar el calentamiento global, concienciación para el consumo de alimentos orgánicos y locales, implementación de sistemas productivos sustentables, aprovechamiento máximo de los productos locales, búsqueda de alternativas para plaguicidas, insecticidas y abonos químicos, interés en desarrollo de empresas agrícolas sustentables y en innovación, y desarrollo de nuevas tendencias agrícolas sustentables como la agricultura urbana."
+                }
+            },
+            {
+                "nombre_carrera": "Ecología",
+                "url": "gfdd",
+                "informacion_carrera": {
+                    "nombre_carrera": "Ecología",
+                    "Sobre_carrera": "Desde nuestro programa Ecología formamos profesionales que se desempeñen en la sociedad como seres analíticos, propositivos, competitivos y responsables en la orientación y toma de decisiones en materia ambiental de la región y el país. En correspondencia con un rol transformador como agente dinámico de las nuevas sociedades del conocimiento, nuestros Ecólogos aplican a los contextos socioambientales del territorio, el sustento conceptual adquirido en su formación."
+                }
             }
+
         ]
     }
 ]

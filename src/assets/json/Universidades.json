@@ -9,7 +9,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Administracion de empresas",
-                    "Sobre_carrera": "Nuestro programa Administración de Empresas, siendo coherente con los propósitos de la Corporación Universitaria Comfacauca, busca formar Administradores que sean líderes éticos con una visión integral del entorno, capaces de gerenciar las organizaciones con responsabilidad social empresarial, mediante el aprendizaje autónomo, trabajo en equipo y motivación, íntegros en todas sus dimensiones humanas, profesionales, ciudadanas que les permitan integrarse exitosamente a su contexto local, regional, nacional y global."                },
+                    "Sobre_carrera": ["Nuestro programa Administración de Empresas, siendo coherente con los propósitos de la Corporación Universitaria Comfacauca, busca formar Administradores que sean líderes éticos con una visión integral del entorno, capaces de gerenciar las organizaciones con responsabilidad social empresarial, mediante el aprendizaje autónomo, trabajo en equipo y motivación, íntegros en todas sus dimensiones humanas, profesionales, ciudadanas que les permitan integrarse exitosamente a su contexto local, regional, nacional y global." ]             },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -118,7 +118,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Comunicacion social y medios digitales",
-                    "Sobre_carrera": "Nuestro programa Comunicación Social y Medios Digitales tiene por misión, la formación de profesionales integrales, con sólidas bases conceptuales, teóricas, éticas, críticas y tecnológicas, para el liderazgo de procesos comunicativos efectivos, en contextos locales y globales, apoyados en tecnologías emergentes y nuevos medios."                },
+                    "Sobre_carrera": ["Nuestro programa Comunicación Social y Medios Digitales tiene por misión, la formación de profesionales integrales, con sólidas bases conceptuales, teóricas, éticas, críticas y tecnológicas, para el liderazgo de procesos comunicativos efectivos, en contextos locales y globales, apoyados en tecnologías emergentes y nuevos medios."]                },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -227,7 +227,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Contaduría Pública",
-                    "Sobre_carrera": "En Unicomfacauca formamos Contadores Públicos profesionales capaces de actuar localmente con visión global, observadores de las tendencias y políticas nacionales e internacionales, encontrándose a la vanguardia en procesos tecnológicos y técnicos propios de su formación, con alta capacidad de adaptación e innovación en diferentes escenarios económicos, sociales, culturales, políticos y ambientales, generador de soluciones pertinentes que aporten al desarrollo y crecimiento de su región y país."                },
+                    "Sobre_carrera": ["En Unicomfacauca formamos Contadores Públicos profesionales capaces de actuar localmente con visión global, observadores de las tendencias y políticas nacionales e internacionales, encontrándose a la vanguardia en procesos tecnológicos y técnicos propios de su formación, con alta capacidad de adaptación e innovación en diferentes escenarios económicos, sociales, culturales, políticos y ambientales, generador de soluciones pertinentes que aporten al desarrollo y crecimiento de su región y país." ]               },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -338,7 +338,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Derecho",
-                    "Sobre_carrera": "Nuestro programa Derecho está comprometido con la formación integral de ciudadanos y profesionales competentes en la ciencia jurídica, que contribuyan a reconocer y solucionar conflictos derivados de la interacción social, económica, cultural y ambiental, propios de la convivencia humana, fundamentados en la excelencia, la primacía de los derechos humanos y la defensa de las instituciones democráticas."                },
+                    "Sobre_carrera": ["Nuestro programa Derecho está comprometido con la formación integral de ciudadanos y profesionales competentes en la ciencia jurídica, que contribuyan a reconocer y solucionar conflictos derivados de la interacción social, económica, cultural y ambiental, propios de la convivencia humana, fundamentados en la excelencia, la primacía de los derechos humanos y la defensa de las instituciones democráticas." ]               },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -683,7 +683,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Ingeniería de sistemas",
-                    "Sobre_carrera": "En nuestro programa Ingeniería de Sistemas, Reacreditado en Alta Calidad por parte del Ministerio de Educación Nacional, preparamos profesionales íntegros con alto nivel de conocimientos en el desarrollo de soluciones tecnológicas de la información y la comunicación, formulando y dirigiendo la investigación aplicada que beneficie el desarrollo técnico, tecnológico y científico del sector productivo del país. También, estará preparado para trabajar eficientemente con los diferentes recursos informáticos que ofrece la sociedad del conocimiento."                },
+                    "Sobre_carrera": ["En nuestro programa Ingeniería de Sistemas, Reacreditado en Alta Calidad por parte del Ministerio de Educación Nacional, preparamos profesionales íntegros con alto nivel de conocimientos en el desarrollo de soluciones tecnológicas de la información y la comunicación, formulando y dirigiendo la investigación aplicada que beneficie el desarrollo técnico, tecnológico y científico del sector productivo del país. También, estará preparado para trabajar eficientemente con los diferentes recursos informáticos que ofrece la sociedad del conocimiento."]                },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -794,7 +794,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Ingeniería Industrial",
-                    "Sobre_carrera": "Nuestro programa Ingeniería Industrial forma Ingenieros competentes, críticos, líderes y emprendedores con responsabilidad social, quien genera, fomenta y ejecuta procesos de investigación, con amplio conocimiento científico, tecnológico y de innovación para el sector industrial. Para tal fin, su formación se enfatiza en las áreas de diseño, implementación, análisis, optimización, control y mejoramiento de los sistemas productivos de bienes y servicios, lo cual le permite aplicar en su ejercicio profesional criterios de sustentabilidad para contribuir al desarrollo socioeconómico del Cauca y el país."                },
+                    "Sobre_carrera": ["Nuestro programa Ingeniería Industrial forma Ingenieros competentes, críticos, líderes y emprendedores con responsabilidad social, quien genera, fomenta y ejecuta procesos de investigación, con amplio conocimiento científico, tecnológico y de innovación para el sector industrial. Para tal fin, su formación se enfatiza en las áreas de diseño, implementación, análisis, optimización, control y mejoramiento de los sistemas productivos de bienes y servicios, lo cual le permite aplicar en su ejercicio profesional criterios de sustentabilidad para contribuir al desarrollo socioeconómico del Cauca y el país."  ]              },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -904,7 +904,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Ingeniería Mecatrónica",
-                    "Sobre_carrera": "Nuestro programa Ingeniería Mecatrónica contribuirá en la comprensión y aplicación de los conocimientos de vanguardia en mecánica, electrónica, informática y control para diseñar, desarrollar y adaptar soluciones innovadoras con visión integral para satisfacer las NBI de la región Caucana, formando profesionales emprendedores que adaptan y apropian la tecnología emergente y la vinculan a los principios, valores y propósitos sociales de la corporación, aportando al desarrollo dinámico de los sectores productivos de la región Caucana."                },
+                    "Sobre_carrera": ["Nuestro programa Ingeniería Mecatrónica contribuirá en la comprensión y aplicación de los conocimientos de vanguardia en mecánica, electrónica, informática y control para diseñar, desarrollar y adaptar soluciones innovadoras con visión integral para satisfacer las NBI de la región Caucana, formando profesionales emprendedores que adaptan y apropian la tecnología emergente y la vinculan a los principios, valores y propósitos sociales de la corporación, aportando al desarrollo dinámico de los sectores productivos de la región Caucana."  ]              },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -1014,7 +1014,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Marketing",
-                    "Sobre_carrera": "El programa de Marketing en Unicomfacauca es una respuesta a las dinámicas del entorno digital, comercial y empresarial del Cauca y del país. Es por eso que está diseñado para formar profesionales con una visión integral del entorno comercial, capaces de comprender el comportamiento del consumidor, interpretar tendencias y desarrollar estrategias innovadoras que generen valor. Todo esto desde una perspectiva ética, colaborativa y con alto compromiso social, alineada a las necesidades del mercado actual y futuro."                },
+                    "Sobre_carrera": ["El programa de Marketing en Unicomfacauca es una respuesta a las dinámicas del entorno digital, comercial y empresarial del Cauca y del país. Es por eso que está diseñado para formar profesionales con una visión integral del entorno comercial, capaces de comprender el comportamiento del consumidor, interpretar tendencias y desarrollar estrategias innovadoras que generen valor. Todo esto desde una perspectiva ética, colaborativa y con alto compromiso social, alineada a las necesidades del mercado actual y futuro."  ]              },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -1237,7 +1237,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Tecnología en Gestión Gastronómica",
-                    "Sobre_carrera": "Nuestro programa Tecnología de Gestión Gastronómica, acreditado en Alta Calidad por parte del Ministerio de Educación Nacional, está orientado a la formación integral, innovadora, emprendedora e investigativa de tecnólogos capaces de brindar servicios de calidad que atiendan a la demanda de la región en producción de alimentos, gestión y administración de hoteles y restaurantes, los cuales contribuyan al fortalecimiento de la industria gastronómica, del sector turístico, económico, social y cultural de la región y del país, a través del conocimiento científico, humanístico y tecnológico."                },
+                    "Sobre_carrera": ["Nuestro programa Tecnología de Gestión Gastronómica, acreditado en Alta Calidad por parte del Ministerio de Educación Nacional, está orientado a la formación integral, innovadora, emprendedora e investigativa de tecnólogos capaces de brindar servicios de calidad que atiendan a la demanda de la región en producción de alimentos, gestión y administración de hoteles y restaurantes, los cuales contribuyan al fortalecimiento de la industria gastronómica, del sector turístico, económico, social y cultural de la región y del país, a través del conocimiento científico, humanístico y tecnológico."  ]              },
                     "planEstudios": [
                         {
                             "numeroSemestre":"1",
@@ -1581,7 +1581,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Ingeniería de Sistemas",
-                    "Sobre_carrera": "Formar ingenieros de sistemas integrales con responsabilidad social, capaces de proponer soluciones informáticas desde la perspectiva de ingeniería de software en los diferentes contextos internacional, regional, nacional y local en el marco de la innovación y el emprendimiento.,"
+                    "Sobre_carrera": ["Formar ingenieros de sistemas integrales con responsabilidad social, capaces de proponer soluciones informáticas desde la perspectiva de ingeniería de software en los diferentes contextos internacional, regional, nacional y local en el marco de la innovación y el emprendimiento.,"]
                 }
             },
             {
@@ -1598,7 +1598,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Licenciatura en Educación Artística y Cultural",
-                    "Sobre_carrera": "La Licenciatura en Educación Artística y Cultural se presenta como el primer programa en educación de la FUP que pretende, contribuir de manera responsable a la formación de maestros que posicionen procesos relevantes en contextos relacionados con educación, arte y cultura, con gran impacto en la comunidad, y así mismo, ofrecer a la población del suroccidente colombiano, el espacio idóneo, que apunte a la formación integral de futuros docentes."
+                    "Sobre_carrera": ["La Licenciatura en Educación Artística y Cultural se presenta como el primer programa en educación de la FUP que pretende, contribuir de manera responsable a la formación de maestros que posicionen procesos relevantes en contextos relacionados con educación, arte y cultura, con gran impacto en la comunidad, y así mismo, ofrecer a la población del suroccidente colombiano, el espacio idóneo, que apunte a la formación integral de futuros docentes."]
                 }
             },
             {
@@ -1606,7 +1606,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Comunicación Social - Virtual",
-                    "Sobre_carrera": "El Programa de Comunicación Social en modalidad virtual que ofrece la FUP busca contribuir al desarrollo de la región y el país formando profesionales integrales, con un alto sentido de la ética y la responsabilidad social, comprometidos con su tiempo y su territorio, con una sólida formación teórica y metodológica para aportar desde su disciplina al diálogo entre distintos actores sociales y la solución pacífica y dialogada de los conflictos, unos profesionales capaces analizar, interpretar y comprender diversos procesos  sociales, políticos y culturales, actuar como mediador en procesos participativos de innovación, desarrollo y cambio social, e integrarse de manera creativa en entornos digitales de la comunicación mediante la generación y gestión de contenidos."
+                    "Sobre_carrera": ["El Programa de Comunicación Social en modalidad virtual que ofrece la FUP busca contribuir al desarrollo de la región y el país formando profesionales integrales, con un alto sentido de la ética y la responsabilidad social, comprometidos con su tiempo y su territorio, con una sólida formación teórica y metodológica para aportar desde su disciplina al diálogo entre distintos actores sociales y la solución pacífica y dialogada de los conflictos, unos profesionales capaces analizar, interpretar y comprender diversos procesos  sociales, políticos y culturales, actuar como mediador en procesos participativos de innovación, desarrollo y cambio social, e integrarse de manera creativa en entornos digitales de la comunicación mediante la generación y gestión de contenidos."]
                 }
             },
             {
@@ -1614,7 +1614,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Comunicación Social",
-                    "Sobre_carrera": "El programa de Comunicación Social de la FUP, pretende formar profesionales en Comunicación Social que comprendan, produzcan y socialicen contenidos comunicacionales en los contextos y realidades humanas desde la innovación y el pensamiento crítico a través de la gestión y la mediación en procesos participativos, de desarrollo y cambio social como respuesta integral a la transformación de la región, mediante su ejercicio responsable y ético."
+                    "Sobre_carrera": ["El programa de Comunicación Social de la FUP, pretende formar profesionales en Comunicación Social que comprendan, produzcan y socialicen contenidos comunicacionales en los contextos y realidades humanas desde la innovación y el pensamiento crítico a través de la gestión y la mediación en procesos participativos, de desarrollo y cambio social como respuesta integral a la transformación de la región, mediante su ejercicio responsable y ético."]
                 }
             },
             {
@@ -1622,7 +1622,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Derecho",
-                    "Sobre_carrera": "Nuestra misión es formar profesionales competentes para contribuir con el desarrollo social de la región y del país, teniendo en cuenta la situación política, jurídica y social del país, a raíz de los retos que plantea el fenómeno de la globalización, e igualmente aquellos derivados del rompimiento del tejido social que ha dado lugar a desigualdades e injusticias en nuestra sociedad."
+                    "Sobre_carrera": ["Nuestra misión es formar profesionales competentes para contribuir con el desarrollo social de la región y del país, teniendo en cuenta la situación política, jurídica y social del país, a raíz de los retos que plantea el fenómeno de la globalización, e igualmente aquellos derivados del rompimiento del tejido social que ha dado lugar a desigualdades e injusticias en nuestra sociedad."]
                 }
             },
             {
@@ -1630,7 +1630,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Psicología",
-                    "Sobre_carrera": "Nuestro programa de Psicología es líder en los procesos de formación, investigación y proyección social, buscando generar en sus estudiantes un pensamiento crítico, proactivo y propositivo en todos los temas relacionados con la construcción de modelos teóricos y aplicados de la psicología. Logrando garantizar la sostenibilidad y la proyección profesional de sus egresados como representantes éticos, morales y científicos de los postulados clínicos, educativos, sociales propios de la psicología. Así mismo, en nuestras materias electivas atendemos y propendemos por la formación en los avances en la disciplina y los modelos de interacción e identidad científica de nuestro psicólogo FUP."
+                    "Sobre_carrera": ["Nuestro programa de Psicología es líder en los procesos de formación, investigación y proyección social, buscando generar en sus estudiantes un pensamiento crítico, proactivo y propositivo en todos los temas relacionados con la construcción de modelos teóricos y aplicados de la psicología. Logrando garantizar la sostenibilidad y la proyección profesional de sus egresados como representantes éticos, morales y científicos de los postulados clínicos, educativos, sociales propios de la psicología. Así mismo, en nuestras materias electivas atendemos y propendemos por la formación en los avances en la disciplina y los modelos de interacción e identidad científica de nuestro psicólogo FUP."]
                 }
             },
             {
@@ -1656,7 +1656,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Administración de Empresas",
-                    "Sobre_carrera": "Nuestro programa Administración de Empresas está soportado por un currículo que da respuesta a las nuevas tendencias del mercado globalizado, que exige la gestión de organizaciones dinámicas abiertas y competitivas, donde la innovación, el emprendimiento, la investigación y el cambio son paradigmas de competitividad."
+                    "Sobre_carrera": ["Nuestro programa Administración de Empresas está soportado por un currículo que da respuesta a las nuevas tendencias del mercado globalizado, que exige la gestión de organizaciones dinámicas abiertas y competitivas, donde la innovación, el emprendimiento, la investigación y el cambio son paradigmas de competitividad."]
                 }
             },
             {
@@ -1664,7 +1664,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Administración de Empresas Agropecuarias",
-                    "Sobre_carrera": "Nuestro programa se caracteriza por la formación en el componente de organizaciones agropecuarias, con preferencia por la identificación de ideas y oportunidades de negocios, la formulación y evaluación de proyectos productivos en diversas organizaciones sociales representativas de la región y el liderazgo en Organizaciones de base, Asociaciones de Cabildos, comunidades negras y comunidades campesinas."
+                    "Sobre_carrera": ["Nuestro programa se caracteriza por la formación en el componente de organizaciones agropecuarias, con preferencia por la identificación de ideas y oportunidades de negocios, la formulación y evaluación de proyectos productivos en diversas organizaciones sociales representativas de la región y el liderazgo en Organizaciones de base, Asociaciones de Cabildos, comunidades negras y comunidades campesinas."]
                 }
             },
             {
@@ -1672,7 +1672,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Ingeniería Agroecológica",
-                    "Sobre_carrera": "El programa Ingeniería Agroecológica se convierte en una alternativa en el marco de programas ambientales y de producción de alimentos, ya que es base y fundamento para generar un proceso de cambios a nivel cultural hacia una mejor sociedad, a través de la implementación de acciones que permitan mitigar el calentamiento global, concienciación para el consumo de alimentos orgánicos y locales, implementación de sistemas productivos sustentables, aprovechamiento máximo de los productos locales, búsqueda de alternativas para plaguicidas, insecticidas y abonos químicos, interés en desarrollo de empresas agrícolas sustentables y en innovación, y desarrollo de nuevas tendencias agrícolas sustentables como la agricultura urbana."
+                    "Sobre_carrera": ["El programa Ingeniería Agroecológica se convierte en una alternativa en el marco de programas ambientales y de producción de alimentos, ya que es base y fundamento para generar un proceso de cambios a nivel cultural hacia una mejor sociedad, a través de la implementación de acciones que permitan mitigar el calentamiento global, concienciación para el consumo de alimentos orgánicos y locales, implementación de sistemas productivos sustentables, aprovechamiento máximo de los productos locales, búsqueda de alternativas para plaguicidas, insecticidas y abonos químicos, interés en desarrollo de empresas agrícolas sustentables y en innovación, y desarrollo de nuevas tendencias agrícolas sustentables como la agricultura urbana."]
                 }
             },
             {
@@ -1680,7 +1680,7 @@
                 "url": "https://webevolmind.b-cdn.net/wp-content/uploads/2019/07/%C2%BFPor-que-es-util-la-imagen-como-recurso-educativo.webp",
                 "informacion_carrera": {
                     "nombre_carrera": "Ecología",
-                    "Sobre_carrera": "Desde nuestro programa Ecología formamos profesionales que se desempeñen en la sociedad como seres analíticos, propositivos, competitivos y responsables en la orientación y toma de decisiones en materia ambiental de la región y el país. En correspondencia con un rol transformador como agente dinámico de las nuevas sociedades del conocimiento, nuestros Ecólogos aplican a los contextos socioambientales del territorio, el sustento conceptual adquirido en su formación."
+                    "Sobre_carrera": ["Desde nuestro programa Ecología formamos profesionales que se desempeñen en la sociedad como seres analíticos, propositivos, competitivos y responsables en la orientación y toma de decisiones en materia ambiental de la región y el país. En correspondencia con un rol transformador como agente dinámico de las nuevas sociedades del conocimiento, nuestros Ecólogos aplican a los contextos socioambientales del territorio, el sustento conceptual adquirido en su formación."]
                 }
             }
 

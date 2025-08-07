@@ -14,6 +14,20 @@ const SignatureInfoCard = ({ onClose, signature }: { onClose: Function, signatur
       {signature?.informacion_carrera.Sobre_carrera[0]}
     </p>
   }
+
+  const showPerfilProfecional = () => {
+    if (signature?.informacion_carrera.perfil_profecional) {
+      const textPerfil = signature?.informacion_carrera.perfil_profecional
+      return textPerfil.map((info, index) =>
+        <div key={index}>
+          <h4 className='text-lg font-bold mt-4'>Perfil del egresado</h4>
+          <p className="text-gray-700 mt-2">
+            {info}
+          </p>
+        </div>
+      )
+    }
+  }
   return (
     <div
       className="fixed inset-0 flex items-center justify-center bg-[#ffffffac] backdrop-blur-xs bg-opacity-50 "
@@ -27,11 +41,8 @@ const SignatureInfoCard = ({ onClose, signature }: { onClose: Function, signatur
 
         {showInfoCarrera()}
 
-        <h4>Perfil del egresado</h4>
-        
-        <p className="text-gray-700 mt-2 ">
-          {signature?.informacion_carrera['Perfil profesional'][0]}
-        </p>
+
+        {showPerfilProfecional()}
 
         <section className='flex overflow-x-scroll overflow-y-scroll w-full mt-4 min-h-96 '>
           {materias?.map((materia, index) =>

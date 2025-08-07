@@ -5,12 +5,12 @@ const SignatureInfoCard = ({ onClose, signature }: { onClose: Function, signatur
   const materias = signature?.planEstudios
   const sobreCarreraInfo = signature?.informacion_carrera.Sobre_carrera
   const showInfoCarrera = () => {
-    if (sobreCarreraInfo && sobreCarreraInfo?.length > 0  ) { 
+    if (sobreCarreraInfo && sobreCarreraInfo?.length > 0) {
       return sobreCarreraInfo.map((info, index) => <p key={index} className="text-gray-700 mt-2">
         {info}
       </p>)
     }
-    return <p className="text-gray-700 mt-2">
+    return <p className="text-gray-700 mt-2 ">
       {signature?.informacion_carrera.Sobre_carrera[0]}
     </p>
   }
@@ -20,12 +20,18 @@ const SignatureInfoCard = ({ onClose, signature }: { onClose: Function, signatur
       onClick={() => onClose()}
     >
       <div
-        className="bg-white max-h-4/5 mt-10 backdrop-blur-3xl w-3/4 p-6 rounded-lg shadow-lg flex flex-col items-center overflow-y-scroll "
+        className="bg-white max-h-4/5 mt-10 backdrop-blur-3xl w-3/4 p-6 rounded-lg shadow-lg flex flex-col items-baseline overflow-y-scroll text-base  "
         onClick={(e) => e.stopPropagation()}
       >
-        <h3 className="text-lg font-bold text-orange-800">Bienvenido, a {signature?.nombre_carrera}</h3>
+        <h3 className="text-lg font-bold text-orange-800 self-center">Bienvenido, a {signature?.nombre_carrera}</h3>
 
         {showInfoCarrera()}
+
+        <h4>Perfil del egresado</h4>
+        
+        <p className="text-gray-700 mt-2 ">
+          {signature?.informacion_carrera['Perfil profesional'][0]}
+        </p>
 
         <section className='flex overflow-x-scroll overflow-y-scroll w-full mt-4 min-h-96 '>
           {materias?.map((materia, index) =>

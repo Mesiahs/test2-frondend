@@ -1,64 +1,46 @@
-"use client"
+"use client";
 
 import { Universidad } from "@/interfaces/Universidad";
-
-interface Category {
-  href: string;
-  name: string;
-}
-
-// interface CaseCardData {
-//   imageUrl: string;
-//   category: Category;
-//   href: string;
-//   title: string;
-//   description: string;
-// }
-
-// interface CaseCardProps {
-//   data: CaseCardData;
-//   index: number;
-// }
+import { useState } from "react";
 
 interface CaseCardProps {
-  universidad: Universidad; // Assuming universidades is an array of Universidad objects
-  index: number
+  universidad: Universidad;
+  index: number;
 }
 
 function CaseCard({ universidad, index }: CaseCardProps) {
-  // Convertimos el 'index' a string al usarlo como ID
-  const stringIndex = index.toString()
+  const [isHovered, setIsHovered] = useState(false);
 
   return (
-    // <div>
-    //   {universidad.name_university}
-    // </div>
     <div
-      onMouseEnter={() => {
-        const title_element = document.getElementById(stringIndex);
-        title_element?.classList.add('text-orange-500');
-      }}
-      onMouseLeave={() => {
-        const title_element = document.getElementById(stringIndex);
-        title_element?.classList.remove('text-orange-500');
-      }}
-      className="flex flex-col overflow-hidden rounded-lg shadow-lg"
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+      className="flex flex-col overflow-hidden rounded-lg shadow-lg transition-all duration-300 hover:shadow-xl"
     >
       <div className="flex-shrink-0">
-        <img className="h-96 w-full object-cover" src={universidad.logo} alt="" />
+        <img 
+          className="h-96 w-full object-cover" 
+          src={universidad.logo || '/placeholder-university.png'} 
+          alt={`Logo de ${universidad.name_university}`} 
+        />
       </div>
       <div className="flex flex-1 flex-col justify-between bg-white p-6">
         <div className="flex-1">
-          <p className="text-xl font-medium text-gray-800">
-            <a  className="hover:underline">
+          <div className="text-xl font-medium text-gray-800">
+            <span className={`block transition-colors duration-300 ${isHovered ? 'text-orange-500' : 'text-gray-800'}`}>
               {universidad.name_university}
-            </a>
-          </p>
-          <a href={universidad.name_university} className="mt-2 block">
-            {/* Usamos la versión string del index como ID */}
-            <p id={stringIndex} className="lg:text-4xl text-2xl font-semibold text-gray-900">{universidad.name_university}</p>
-            <p className="mt-3 text-base text-gray-500">{universidad.descripcion}</p>
-          </a>
+            </span>
+          </div>
+          <div className="mt-2 block">
+            <h3 
+              className={`lg:text-4xl text-2xl font-semibold transition-colors duration-300 ${isHovered ? 'text-orange-500' : 'text-gray-900'}`}
+            >
+              {universidad.name_university}
+            </h3>
+            <p className="mt-3 text-base text-gray-500 line-clamp-3">
+              {universidad.descripcion || 'Descripción no disponible'}
+            </p>
+          </div>
         </div>
       </div>
     </div>

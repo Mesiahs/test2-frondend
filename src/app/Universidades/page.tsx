@@ -8,17 +8,18 @@ import universidadesJson from "@/assets/json/Universidades.json"
 import { Universidad } from '@/interfaces/Universidad';
 
 const pageUniversity = () => {
-    const [universidades, setUniversidades] = useState()
+    // const [universidades, setUniversidades] = useState()
+    const [universidades, setUniversidades] = useState<Universidad[] | undefined>(undefined);
 
     useEffect(() => {
-      console.log(universidadesJson);
-      //setUniversidades(universidadesJson)
+        console.log(universidadesJson);
+        // setUniversidades(universidadesJson)
     }, [])
-    
+
 
     return (
         <div className="pt-28">
-            <CasesList universidades={universidadesJson}/>
+            <CasesList universidades={universidadesJson} />
         </div>
     )
 }

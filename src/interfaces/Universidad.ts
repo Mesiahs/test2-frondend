@@ -15,7 +15,7 @@ export interface Carrera {
 
 export interface InformacionCarrera {
     nombre_carrera:        string;
-    Sobre_carrera:         string[] | string;
+    Sobre_carrera:         string[];
     "Perfil profesional"?: string;
     "Perfil ocupacional"?: string[];
 }
